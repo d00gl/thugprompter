@@ -2,8 +2,7 @@
 Leverage 2Pac's thug vibez to quickly write prompts for your ai training images.
 
 
-![2pacbg2](https://user-images.githubusercontent.com/53491056/229329507-3c8bdbde-6088-4a97-b002-07c2c0e9f319.png)
-
+![ghub](https://user-images.githubusercontent.com/53491056/229329513-255add2b-8034-457b-bbe7-ac7de91f77aa.png)
 
 
 #how to use:
