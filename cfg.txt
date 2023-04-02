@@ -1,2 +1,2 @@
-G:\stablediffusion\civitai\welding mask\wmask
--58
+C:\your\directory\here
+0
